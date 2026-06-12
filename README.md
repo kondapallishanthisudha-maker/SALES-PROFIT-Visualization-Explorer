@@ -1,4 +1,3 @@
-# SALES-PROFIT-Visualization-Explorer
 # 📊 SALES-PROFIT-Visualization-Explorer
 
 An interactive data visualization application built using **Python**, **Matplotlib**, and **Gradio** that helps users explore sales and profit trends through various charts and graphical insights.
